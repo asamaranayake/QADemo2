@@ -28,6 +28,7 @@ public class QADemoUITest {
         WebElement searchInputElement =  driver.findElement(By.name("q"));
         searchInputElement.sendKeys("car");
         //Add Comment
+        //Add Comment 2
 
     }
 
